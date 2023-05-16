@@ -1,9 +1,9 @@
-# Vite To-Do List
+# To-Do List (Vite + React.js)
 Welcome to the Vite To-Do List project! This is a web application built using React.js and Vite that allows you to manage your tasks by adding, removing, or clearing all items from your to-do list. It provides a user-friendly interface for tracking your tasks and helps you stay organized.
 
 # Live Demo
 You can access the live demo of this project here.
-to-do-rudra.netlify.app
+(to-do-rudra.netlify.app)
 
 # Features
 Add Button: Clicking on the "Add" button allows you to enter a new task into the to-do list. Once added, the task will be displayed in the list.
@@ -27,27 +27,25 @@ To run this project locally, you need to have the following software installed o
 
 Node.js (version 14 or higher)
 npm (Node Package Manager)
+
 # Installation
 Follow the steps below to set up the project on your local machine:
 
 Clone the repository to your local machine using the following command:
 
-# bash
 Copy code
 git clone https://github.com/Noobcoder2042/To-do-list.git
-#Navigate to the project directory:
+Navigate to the project directory:
 
-vbnet
-# Copy code
+Copy code
 cd To-do-list
 Install the required dependencies by running the following command:
 
-# Copy code
+Copy code
 npm install
 Running the Application
 To run the application locally, execute the following command in the project directory:
 
-# arduino
 Copy code
 npm run dev
 This command will start the Vite development server, and you can access the application by visiting http://localhost:3000 in your web browser.
